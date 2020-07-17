@@ -1,1 +1,1 @@
-# Teaching-Assistent for multivariate statistical analysis. the programming language is R.
+Teaching assistent for multivariate statistical analysis. The programming language is R.
